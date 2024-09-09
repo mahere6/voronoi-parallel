@@ -27,7 +27,7 @@
 #include <fstream>
 #include <iomanip>
 #include <vector>
-#include "voronoi3.0.h"		// function prototypes here
+#include "voronoi.h"
 #include <cmath>
 #include <mpi.h>
 #include "voronoi_functions.h"
