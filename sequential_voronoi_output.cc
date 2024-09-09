@@ -23,7 +23,7 @@
 #include <iostream>
 #include <fstream>
 #include <vector>
-#include "voronoi3.0.h"
+#include "voronoi.h"
 #include <cmath>
 #include <chrono>
 
