@@ -31,7 +31,7 @@
 #include <cstring>
 #include <cmath>
 #include <mpi.h>
-#include "voronoi3.0.h"
+#include "voronoi.h"
 #include <sstream>
 
 
