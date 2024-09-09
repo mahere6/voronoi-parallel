@@ -5,7 +5,7 @@
  * @version 1.0
  * @date 02-07-2024
  */
-#include "voronoi3.0.h"
+#include "voronoi.h"
 
 int		parseArguments						(int argc, char * argv[], char ** points_filename, char ** boundary_filename, double * spacing);
 int		parseArguments0						(int argc, char * argv[], char ** points_filename, char ** boundary_filename, double * spacing);
