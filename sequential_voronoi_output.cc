@@ -593,7 +593,7 @@ int parseArguments(int argc, char * argv[]){
  */
 void printUsage(void){
 	std::cout<<"Voronoi Diagram program\nby: Eleanor Maher <mahere6@tcd.ie>\nThis program will calculate the 2D Voronoi diagram for inputted points within a convex region.\nusage: ";
-	std::cout<<"./voronoi [options]\n";
+	std::cout<<"./sequential_voronoi_output [options]\n";
 
 	// options
 	std::cout<<"        -p filename     : will cause the program to read input points from the txt file named [filename]\n";
