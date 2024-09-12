@@ -1854,7 +1854,7 @@ int parseArguments(int argc, char * argv[], int rank, int size, char ** points_f
  */
 void printUsage(void){
 	std::cout<<"Complex Parallel Voronoi Diagram program\nby: Eleanor Maher <mahere6@tcd.ie>\nThis program will calculate the 2D Voronoi diagram for inputted points within a convex region.\nusage: ";
-	std::cout<<"mpirun -np [value] ./v_parallel_complex [options]\n";
+	std::cout<<"mpirun -np [value] ./v_parallel_complex_output [options]\n";
 
 	// options
 	std::cout<<"        -p filename     : will cause the program to read input points from the txt file named [filename]\n";
