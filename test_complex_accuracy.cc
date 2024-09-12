@@ -259,7 +259,7 @@ int main(int argc, char *argv[]){
 void printUsage(void){
 
 	cout<<"This program tests the accuracy of results generated from v_parallel_complex against the results generated from v_parallel_simple.\n";
-	cout<<"Usage: ./test_accuracy [options]\n";
+	cout<<"Usage: ./test_complex [options]\n";
 
 	cout<<"    -n value      : specifies the number of points used\n";
 	cout<<"    -c filename   : specifies the name of the file with accurate cell data\n";
